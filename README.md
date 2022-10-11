@@ -1,2 +1,2 @@
 # IndianFoodThali
-Indian food Thali App - SwiftUI 
+Indian food Thali App - SwiftUI Images
